@@ -89,12 +89,12 @@ img.size1{
     width: 100%;
 }
 img.size2{
-    flex: 60%;
+    width: 60%;
 }
 img.size3{
-    flex: 40%;
+    width: 40%;
 }
 img.size4{
-    flex: 30%;
+    width: 30%;
 }
 }
